@@ -1,0 +1,693 @@
+{
+  "binary": {
+    "c39": {
+      "label": "D1 - internet disruption (WBES)",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 127.64,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2306,
+        "cramers_v": 0.235,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 11.93,
+          "p": 0.0006,
+          "p_exact": 0.000551667921018119,
+          "significant_at_0.05": true,
+          "p_holm": 0.0127,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 45.24,
+          "p": 0.0,
+          "p_exact": 1.74526364090181e-11,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 0.0,
+          "p": 1.0,
+          "p_exact": 1.0,
+          "significant_at_0.05": false,
+          "p_holm": 1.0,
+          "significant_holm_0.05": false
+        }
+      }
+    },
+    "l10": {
+      "label": "D2 - formal training programme",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 167.22,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2385,
+        "cramers_v": 0.265,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 12.8,
+          "p": 0.0003,
+          "p_exact": 0.0003468790717004624,
+          "significant_at_0.05": true,
+          "p_holm": 0.0083,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 13.25,
+          "p": 0.0003,
+          "p_exact": 0.00027217054877869953,
+          "significant_at_0.05": true,
+          "p_holm": 0.0071,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 65.99,
+          "p": 0.0,
+          "p_exact": 4.527688985388938e-16,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "c22b": {
+      "label": "D3 - has own website",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 57.36,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2484,
+        "cramers_v": 0.152,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 16.11,
+          "p": 0.0001,
+          "p_exact": 5.972937067635081e-05,
+          "significant_at_0.05": true,
+          "p_holm": 0.0017,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 0.12,
+          "p": 0.7311,
+          "p_exact": 0.7310812575397425,
+          "significant_at_0.05": false,
+          "p_holm": 1.0,
+          "significant_holm_0.05": false
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 8.37,
+          "p": 0.0038,
+          "p_exact": 0.0038059010683699932,
+          "significant_at_0.05": true,
+          "p_holm": 0.0647,
+          "significant_holm_0.05": false
+        }
+      }
+    },
+    "e6": {
+      "label": "D3 - uses foreign-licensed technology",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 32.67,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2413,
+        "cramers_v": 0.116,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 24.85,
+          "p": 0.0,
+          "p_exact": 6.197731606076651e-07,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 19.76,
+          "p": 0.0,
+          "p_exact": 8.78984673962182e-06,
+          "significant_at_0.05": true,
+          "p_holm": 0.0003,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 29.98,
+          "p": 0.0,
+          "p_exact": 4.363618493684148e-08,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "b8": {
+      "label": "D3/D4 - quality certification",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 142.73,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2343,
+        "cramers_v": 0.247,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 0.14,
+          "p": 0.7058,
+          "p_exact": 0.7057672963046382,
+          "significant_at_0.05": false,
+          "p_holm": 1.0,
+          "significant_holm_0.05": false
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 14.86,
+          "p": 0.0001,
+          "p_exact": 0.0001154865972343609,
+          "significant_at_0.05": true,
+          "p_holm": 0.0031,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 107.14,
+          "p": 0.0,
+          "p_exact": 4.143225462239888e-25,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "r2": {
+      "label": "D4 - monitors performance indicators",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 58.61,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2056,
+        "cramers_v": 0.169,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 2.64,
+          "p": 0.1045,
+          "p_exact": 0.10447095822768546,
+          "significant_at_0.05": false,
+          "p_holm": 0.5335,
+          "significant_holm_0.05": false
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 5.42,
+          "p": 0.0199,
+          "p_exact": 0.01994426371556552,
+          "significant_at_0.05": true,
+          "p_holm": 0.2792,
+          "significant_holm_0.05": false
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 10.15,
+          "p": 0.0014,
+          "p_exact": 0.0014396556150453712,
+          "significant_at_0.05": true,
+          "p_holm": 0.0288,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "r4": {
+      "label": "D4 - has production/service targets",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 58.27,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2066,
+        "cramers_v": 0.168,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 3.05,
+          "p": 0.0807,
+          "p_exact": 0.08072831009139629,
+          "significant_at_0.05": false,
+          "p_holm": 0.5335,
+          "significant_holm_0.05": false
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 3.49,
+          "p": 0.0616,
+          "p_exact": 0.06161374731591418,
+          "significant_at_0.05": false,
+          "p_holm": 0.5335,
+          "significant_holm_0.05": false
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 9.28,
+          "p": 0.0023,
+          "p_exact": 0.00232022817810974,
+          "significant_at_0.05": true,
+          "p_holm": 0.0441,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "h8": {
+      "label": "D5 - R&D investment",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 72.88,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2441,
+        "cramers_v": 0.173,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 7.29,
+          "p": 0.0069,
+          "p_exact": 0.006942488707439783,
+          "significant_at_0.05": true,
+          "p_holm": 0.1041,
+          "significant_holm_0.05": false
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 4.7,
+          "p": 0.0302,
+          "p_exact": 0.03018866027199532,
+          "significant_at_0.05": true,
+          "p_holm": 0.3623,
+          "significant_holm_0.05": false
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 20.1,
+          "p": 0.0,
+          "p_exact": 7.362916324813731e-06,
+          "significant_at_0.05": true,
+          "p_holm": 0.0002,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "j6a": {
+      "label": "D5 - secured government contract",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 11.55,
+        "dof": 3,
+        "p": 0.0091,
+        "n": 2377,
+        "cramers_v": 0.07,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 4.61,
+          "p": 0.0318,
+          "p_exact": 0.031799967783459844,
+          "significant_at_0.05": true,
+          "p_holm": 0.3623,
+          "significant_holm_0.05": false
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 8.96,
+          "p": 0.0028,
+          "p_exact": 0.002753090917729065,
+          "significant_at_0.05": true,
+          "p_holm": 0.0496,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 10.47,
+          "p": 0.0012,
+          "p_exact": 0.0012110129059287379,
+          "significant_at_0.05": true,
+          "p_holm": 0.0254,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "k21": {
+      "label": "D5 - financial statements externally audited",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 382.25,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2344,
+        "cramers_v": 0.404,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 179.97,
+          "p": 0.0,
+          "p_exact": 4.912408266199828e-41,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 15.0,
+          "p": 0.0001,
+          "p_exact": 0.00010741922714366954,
+          "significant_at_0.05": true,
+          "p_holm": 0.003,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 5.32,
+          "p": 0.0211,
+          "p_exact": 0.021060665597759657,
+          "significant_at_0.05": true,
+          "p_holm": 0.2792,
+          "significant_holm_0.05": false
+        }
+      }
+    },
+    "h1": {
+      "label": "D5 - new product/service introduced",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 104.04,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2466,
+        "cramers_v": 0.205,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 12.92,
+          "p": 0.0003,
+          "p_exact": 0.00032441578031678074,
+          "significant_at_0.05": true,
+          "p_holm": 0.0081,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 3.18,
+          "p": 0.0745,
+          "p_exact": 0.07454016971530068,
+          "significant_at_0.05": false,
+          "p_holm": 0.5335,
+          "significant_holm_0.05": false
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 27.61,
+          "p": 0.0,
+          "p_exact": 1.485907977028364e-07,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "h5": {
+      "label": "D5 - new/improved process introduced",
+      "omnibus": {
+        "test": "chi-square (4 x 2, country x yes/no)",
+        "chi2": 145.4,
+        "dof": 3,
+        "p": 0.0,
+        "n": 2428,
+        "cramers_v": 0.245,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "chi-square (2x2)",
+          "chi2": 26.3,
+          "p": 0.0,
+          "p_exact": 2.91828494681805e-07,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "chi-square (2x2)",
+          "chi2": 0.39,
+          "p": 0.5302,
+          "p_exact": 0.5301626490892115,
+          "significant_at_0.05": false,
+          "p_holm": 1.0,
+          "significant_holm_0.05": false
+        },
+        "Indonesia": {
+          "test": "chi-square (2x2)",
+          "chi2": 20.85,
+          "p": 0.0,
+          "p_exact": 4.956700322520062e-06,
+          "significant_at_0.05": true,
+          "p_holm": 0.0002,
+          "significant_holm_0.05": true
+        }
+      }
+    }
+  },
+  "ordinal": {
+    "k30": {
+      "label": "D6 - access-to-finance obstacle severity",
+      "omnibus": {
+        "test": "Kruskal-Wallis (4 groups)",
+        "H": 207.25,
+        "p": 0.0,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "Mann-Whitney U",
+          "U": 30784.5,
+          "p": 0.0011,
+          "p_exact": 0.0010591058624600464,
+          "significant_at_0.05": true,
+          "p_holm": 0.0233,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "Mann-Whitney U",
+          "U": 60447.0,
+          "p": 0.0,
+          "p_exact": 2.957418219970307e-20,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "Mann-Whitney U",
+          "U": 124866.0,
+          "p": 0.0,
+          "p_exact": 3.441475624296059e-37,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "j30c": {
+      "label": "D6 - licensing/permits obstacle severity",
+      "omnibus": {
+        "test": "Kruskal-Wallis (4 groups)",
+        "H": 353.98,
+        "p": 0.0,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "Mann-Whitney U",
+          "U": 29788.5,
+          "p": 0.0,
+          "p_exact": 1.461128156812491e-07,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "Mann-Whitney U",
+          "U": 75441.0,
+          "p": 0.0,
+          "p_exact": 8.897298621392938e-09,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "Mann-Whitney U",
+          "U": 107211.0,
+          "p": 0.0,
+          "p_exact": 7.350238111470436e-52,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "e30": {
+      "label": "D6 - informal-competition obstacle severity",
+      "omnibus": {
+        "test": "Kruskal-Wallis (4 groups)",
+        "H": 77.18,
+        "p": 0.0,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "Mann-Whitney U",
+          "U": 27235.5,
+          "p": 0.0,
+          "p_exact": 1.6193785820386092e-07,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "Mann-Whitney U",
+          "U": 59442.0,
+          "p": 0.0,
+          "p_exact": 7.081687520325976e-17,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "Mann-Whitney U",
+          "U": 166391.0,
+          "p": 0.0,
+          "p_exact": 2.018040374468134e-13,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        }
+      }
+    },
+    "k3bc": {
+      "label": "D6 - % working capital bank-financed",
+      "omnibus": {
+        "test": "Kruskal-Wallis (4 groups)",
+        "H": 81.74,
+        "p": 0.0,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "Mann-Whitney U",
+          "U": 29513.0,
+          "p": 0.0338,
+          "p_exact": 0.033760185636722465,
+          "significant_at_0.05": true,
+          "p_holm": 0.3623,
+          "significant_holm_0.05": false
+        },
+        "Vietnam": {
+          "test": "Mann-Whitney U",
+          "U": 61419.0,
+          "p": 0.0,
+          "p_exact": 3.4286836903345996e-13,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "Mann-Whitney U",
+          "U": 147246.0,
+          "p": 0.0593,
+          "p_exact": 0.05927378179823214,
+          "significant_at_0.05": false,
+          "p_holm": 0.5335,
+          "significant_holm_0.05": false
+        }
+      }
+    },
+    "j2": {
+      "label": "D6 - % senior mgmt time on regulation",
+      "omnibus": {
+        "test": "Kruskal-Wallis (4 groups)",
+        "H": 295.07,
+        "p": 0.0,
+        "significant_at_0.05": true
+      },
+      "thailand_vs": {
+        "Malaysia": {
+          "test": "Mann-Whitney U",
+          "U": 17616.0,
+          "p": 0.0,
+          "p_exact": 1.552288792718604e-28,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Vietnam": {
+          "test": "Mann-Whitney U",
+          "U": 44810.5,
+          "p": 0.0,
+          "p_exact": 5.990458680693391e-29,
+          "significant_at_0.05": true,
+          "p_holm": 0.0,
+          "significant_holm_0.05": true
+        },
+        "Indonesia": {
+          "test": "Mann-Whitney U",
+          "U": 157156.0,
+          "p": 0.0045,
+          "p_exact": 0.004493832067507739,
+          "significant_at_0.05": true,
+          "p_holm": 0.0719,
+          "significant_holm_0.05": false
+        }
+      }
+    }
+  },
+  "holm_family": {
+    "n_comparisons": 51,
+    "n_significant_raw": 42,
+    "n_significant_holm": 34
+  }
+}

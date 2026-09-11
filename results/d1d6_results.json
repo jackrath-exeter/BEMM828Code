@@ -1,0 +1,294 @@
+{
+  "Thailand": {
+    "manufacturing_n": 334,
+    "sme_n": 226,
+    "D1": {
+      "internet_disruption_pct": 12.0,
+      "internet_disruption_n": 308,
+      "internet_reliability_readiness": 88.0,
+      "composite": 88.0
+    },
+    "D2": {
+      "formal_training_pct": 32.8,
+      "formal_training_n": 332,
+      "pct_prod_trained": 57.0,
+      "pct_prod_trained_n": 5,
+      "skilled_semiskilled_ratio_pct": 68.8,
+      "skill_ratio_n": 329,
+      "manager_experience_years": 24.8,
+      "manager_exp_n": 324,
+      "composite": 50.8
+    },
+    "D3": {
+      "own_website_pct": 55.0,
+      "own_website_n": 333,
+      "foreign_tech_pct": 5.5,
+      "foreign_tech_n": 326,
+      "broadband_pct": 4.5,
+      "broadband_n": 334,
+      "quality_cert_pct": 43.7,
+      "quality_cert_n": 325,
+      "composite": 34.7,
+      "composite_incl_broadband": 27.2
+    },
+    "D4": {
+      "monitors_performance_pct": 53.3,
+      "monitors_performance_n": 225,
+      "has_targets_pct": 77.9,
+      "has_targets_n": 226,
+      "num_kpis_monitored_mean": 1.8,
+      "num_kpis_n": 117,
+      "quality_cert_pct": 43.7,
+      "quality_cert_n": 325,
+      "composite": 58.3
+    },
+    "D5": {
+      "rd_investment_pct": 12.1,
+      "rd_investment_n": 331,
+      "gov_contract_pct": 4.2,
+      "gov_contract_n": 330,
+      "external_audit_pct": 26.3,
+      "external_audit_n": 331,
+      "new_product_pct": 18.6,
+      "new_product_n": 334,
+      "new_process_pct": 8.7,
+      "new_process_n": 333,
+      "manager_experience_years": 24.8,
+      "composite_2indicator_original": 8.2,
+      "composite": 14.0
+    },
+    "D6": {
+      "finance_obstacle_readiness": 91.5,
+      "finance_obstacle_n": 328,
+      "licensing_obstacle_readiness": 96.2,
+      "licensing_obstacle_n": 332,
+      "informal_competition_readiness": 83.8,
+      "informal_competition_n": 333,
+      "bank_financed_workingcap_pct": 7.2,
+      "bank_financed_n": 308,
+      "regulatory_burden_readiness": 97.1,
+      "regulatory_burden_n": 323,
+      "composite": 92.2,
+      "composite_incl_bank_finance": 75.2
+    }
+  },
+  "Malaysia": {
+    "manufacturing_n": 220,
+    "sme_n": 166,
+    "D1": {
+      "internet_disruption_pct": 23.9,
+      "internet_disruption_n": 213,
+      "internet_reliability_readiness": 76.1,
+      "composite": 76.1
+    },
+    "D2": {
+      "formal_training_pct": 48.4,
+      "formal_training_n": 219,
+      "pct_prod_trained": 81.6,
+      "pct_prod_trained_n": 92,
+      "skilled_semiskilled_ratio_pct": 73.9,
+      "skill_ratio_n": 190,
+      "manager_experience_years": 27.2,
+      "manager_exp_n": 203,
+      "composite": 61.2
+    },
+    "D3": {
+      "own_website_pct": 72.3,
+      "own_website_n": 220,
+      "foreign_tech_pct": 19.6,
+      "foreign_tech_n": 219,
+      "broadband_pct": 20.5,
+      "broadband_n": 219,
+      "quality_cert_pct": 41.7,
+      "quality_cert_n": 216,
+      "composite": 44.5,
+      "composite_incl_broadband": 38.5
+    },
+    "D4": {
+      "monitors_performance_pct": 62.6,
+      "monitors_performance_n": 139,
+      "has_targets_pct": 85.8,
+      "has_targets_n": 141,
+      "num_kpis_monitored_mean": 1.9,
+      "num_kpis_n": 86,
+      "quality_cert_pct": 41.7,
+      "quality_cert_n": 216,
+      "composite": 63.4
+    },
+    "D5": {
+      "rd_investment_pct": 21.0,
+      "rd_investment_n": 219,
+      "gov_contract_pct": 9.1,
+      "gov_contract_n": 219,
+      "external_audit_pct": 85.3,
+      "external_audit_n": 217,
+      "new_product_pct": 32.3,
+      "new_product_n": 220,
+      "new_process_pct": 25.1,
+      "new_process_n": 219,
+      "manager_experience_years": 27.2,
+      "composite_2indicator_original": 15.1,
+      "composite": 34.6
+    },
+    "D6": {
+      "finance_obstacle_readiness": 87.7,
+      "finance_obstacle_n": 215,
+      "licensing_obstacle_readiness": 90.4,
+      "licensing_obstacle_n": 217,
+      "informal_competition_readiness": 72.7,
+      "informal_competition_n": 215,
+      "bank_financed_workingcap_pct": 9.4,
+      "bank_financed_n": 209,
+      "regulatory_burden_readiness": 92.5,
+      "regulatory_burden_n": 196,
+      "composite": 85.8,
+      "composite_incl_bank_finance": 70.5
+    }
+  },
+  "Vietnam": {
+    "manufacturing_n": 566,
+    "sme_n": 345,
+    "D1": {
+      "internet_disruption_pct": 33.2,
+      "internet_disruption_n": 549,
+      "internet_reliability_readiness": 66.8,
+      "composite": 66.8
+    },
+    "D2": {
+      "formal_training_pct": 21.6,
+      "formal_training_n": 561,
+      "pct_prod_trained": 72.2,
+      "pct_prod_trained_n": 110,
+      "skilled_semiskilled_ratio_pct": 74.6,
+      "skill_ratio_n": 544,
+      "manager_experience_years": 16.8,
+      "manager_exp_n": 527,
+      "composite": 48.1
+    },
+    "D3": {
+      "own_website_pct": 53.5,
+      "own_website_n": 566,
+      "foreign_tech_pct": 15.9,
+      "foreign_tech_n": 555,
+      "broadband_pct": 15.9,
+      "broadband_n": 565,
+      "quality_cert_pct": 30.5,
+      "quality_cert_n": 550,
+      "composite": 33.3,
+      "composite_incl_broadband": 29.0
+    },
+    "D4": {
+      "monitors_performance_pct": 43.1,
+      "monitors_performance_n": 353,
+      "has_targets_pct": 84.4,
+      "has_targets_n": 358,
+      "num_kpis_monitored_mean": 1.8,
+      "num_kpis_n": 150,
+      "quality_cert_pct": 30.5,
+      "quality_cert_n": 550,
+      "composite": 52.7
+    },
+    "D5": {
+      "rd_investment_pct": 7.5,
+      "rd_investment_n": 560,
+      "gov_contract_pct": 10.1,
+      "gov_contract_n": 565,
+      "external_audit_pct": 39.3,
+      "external_audit_n": 560,
+      "new_product_pct": 13.9,
+      "new_product_n": 563,
+      "new_process_pct": 10.2,
+      "new_process_n": 557,
+      "manager_experience_years": 16.8,
+      "composite_2indicator_original": 8.8,
+      "composite": 16.2
+    },
+    "D6": {
+      "finance_obstacle_readiness": 76.2,
+      "finance_obstacle_n": 548,
+      "licensing_obstacle_readiness": 89.8,
+      "licensing_obstacle_n": 542,
+      "informal_competition_readiness": 68.4,
+      "informal_competition_n": 523,
+      "bank_financed_workingcap_pct": 18.1,
+      "bank_financed_n": 539,
+      "regulatory_burden_readiness": 94.7,
+      "regulatory_burden_n": 454,
+      "composite": 82.3,
+      "composite_incl_bank_finance": 69.4
+    }
+  },
+  "Indonesia": {
+    "manufacturing_n": 1385,
+    "sme_n": 1101,
+    "D1": {
+      "internet_disruption_pct": 12.0,
+      "internet_disruption_n": 1236,
+      "internet_reliability_readiness": 88.0,
+      "composite": 88.0
+    },
+    "D2": {
+      "formal_training_pct": 13.6,
+      "formal_training_n": 1273,
+      "pct_prod_trained": 63.1,
+      "pct_prod_trained_n": 124,
+      "skilled_semiskilled_ratio_pct": 83.5,
+      "skill_ratio_n": 969,
+      "manager_experience_years": 14.6,
+      "manager_exp_n": 1110,
+      "composite": 48.6
+    },
+    "D3": {
+      "own_website_pct": 45.9,
+      "own_website_n": 1365,
+      "foreign_tech_pct": 18.0,
+      "foreign_tech_n": 1313,
+      "broadband_pct": null,
+      "broadband_n": 0,
+      "quality_cert_pct": 16.7,
+      "quality_cert_n": 1252,
+      "composite": 26.9,
+      "composite_incl_broadband": 26.9
+    },
+    "D4": {
+      "monitors_performance_pct": 64.7,
+      "monitors_performance_n": 1339,
+      "has_targets_pct": 67.5,
+      "has_targets_n": 1341,
+      "num_kpis_monitored_mean": 1.9,
+      "num_kpis_n": 844,
+      "quality_cert_pct": 16.7,
+      "quality_cert_n": 1252,
+      "composite": 49.6
+    },
+    "D5": {
+      "rd_investment_pct": 5.1,
+      "rd_investment_n": 1331,
+      "gov_contract_pct": 10.1,
+      "gov_contract_n": 1263,
+      "external_audit_pct": 20.2,
+      "external_audit_n": 1236,
+      "new_product_pct": 8.5,
+      "new_product_n": 1349,
+      "new_process_pct": 3.0,
+      "new_process_n": 1319,
+      "manager_experience_years": 14.6,
+      "composite_2indicator_original": 7.6,
+      "composite": 9.4
+    },
+    "D6": {
+      "finance_obstacle_readiness": 70.2,
+      "finance_obstacle_n": 1325,
+      "licensing_obstacle_readiness": 77.0,
+      "licensing_obstacle_n": 1279,
+      "informal_competition_readiness": 73.6,
+      "informal_competition_n": 1323,
+      "bank_financed_workingcap_pct": 10.7,
+      "bank_financed_n": 1010,
+      "regulatory_burden_readiness": 95.8,
+      "regulatory_burden_n": 1036,
+      "composite": 79.1,
+      "composite_incl_bank_finance": 65.5
+    }
+  }
+}
